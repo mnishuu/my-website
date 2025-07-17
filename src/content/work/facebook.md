@@ -1,8 +1,8 @@
 ---
 company: "Airasia"
 role: "Software Engineer Intern"
-dateStart: "01/02/2022"
-dateEnd: "30/08/2022"
+dateStart: "02/01/2022"
+dateEnd: "08/30/2022"
 ---
 
 Intern role focusing on feature development for travel planning systems

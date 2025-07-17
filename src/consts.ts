@@ -3,8 +3,8 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Nishanth Gopal",
-  DESCRIPTION: "Welcome to my space",
-  AUTHOR: "Nishanth Gopak",
+  DESCRIPTION: "",
+  AUTHOR: "Nishanth Gopa",
 }
 
 // Work Page

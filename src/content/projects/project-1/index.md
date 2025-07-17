@@ -1,5 +1,5 @@
 ---
-title: "Project ass"
+title: "Project One"
 summary: "Lorem ipsum dolor sit amet"
 date: "Mar 18 2022"
 draft: false

@@ -1,7 +1,7 @@
 ---
 company: "Airasia"
 role: "Software Engineer 1"
-dateStart: "01/09/2022"
+dateStart: "09/01/2022"
 dateEnd: "Now"
 ---
 Software Engineer responsible for the development and enhancement
